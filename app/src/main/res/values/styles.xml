@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ButtonCloseProducts" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/border_item</item>
+    </style>
+</resources>
